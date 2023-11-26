@@ -8,7 +8,7 @@ app = Flask(__name__)
 # Replace these values with your MySQL database credentials
 db_host = "localhost"
 db_user = "root"
-db_password ="SidharthPriyu"
+db_password ="Database_Password"
 db_name = "STUDENT_MANAGEMENT"
 
 # Connect to MySQL
